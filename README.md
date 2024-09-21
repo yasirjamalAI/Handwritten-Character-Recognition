@@ -1,1 +1,1 @@
-# Handwritten-Character-Recognition
+This correctly prdeicts Handwritten Charaters from images using CNN and other deep neural network algorithms.The images is stored in a acsv file in pixels form.Future advancements can also be made in this code to recognize letters along with characters. 
